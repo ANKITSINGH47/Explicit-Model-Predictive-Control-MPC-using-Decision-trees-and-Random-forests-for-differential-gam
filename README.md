@@ -23,29 +23,32 @@ purpose. The training data for both the optimal control and
 game of two cars are generated through available numerical
 optimal control tools.
 
-
+<br>
 
 ![Screenshot from 2023-11-26 00-40-08](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/6461f4a8-861d-44af-98b0-0d5391e903d3)
 
-
+<br>
 
 ![Screenshot from 2023-11-26 00-40-29](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/80b17fe8-316d-4585-8324-8949d1b54fcb)
 
 
-
+<br>
 
 ![Screenshot from 2023-11-26 00-40-57](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/763c4469-bfe3-476d-8ceb-d6ba609560e9)
 
+<br>
 
 ![Screenshot from 2023-11-26 00-41-16](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/aed1ad8a-2584-40b4-8e65-8b4c47faa9ab)
 
-
+<br>
 
 ![Screenshot from 2023-11-26 00-41-31](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/14a4de22-d27e-4242-8d43-e87f910396b6)
 
+<br>
 
 ![Screenshot from 2023-11-26 00-41-46](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/707691fd-6183-4dcf-9345-9d5d51579b08)
 
+<br>
 
 ![Screenshot from 2023-11-26 00-42-05](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/b0f3fcce-2dd6-4c98-b5ea-dd3ab9b99e36)
 
