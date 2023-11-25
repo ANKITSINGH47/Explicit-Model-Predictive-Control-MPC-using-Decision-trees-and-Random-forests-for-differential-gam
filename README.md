@@ -25,24 +25,31 @@ optimal control tools.
 
 
 
-
-![Screenshot from 2023-11-26 00-40-08](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/6c060a05-c98f-41b8-bbf3-ebf669c4451a)
-
+![Screenshot from 2023-11-26 00-40-08](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/6461f4a8-861d-44af-98b0-0d5391e903d3)
 
 
 
+![Screenshot from 2023-11-26 00-40-29](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/80b17fe8-316d-4585-8324-8949d1b54fcb)
 
-<br>
 
-![Screenshot from 2023-11-26 00-41-16](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/ee704fca-c21a-425d-8c07-abe06a3d8bef)
 
-<br>
-![Screenshot from 2023-11-26 00-41-31](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/2f8b1bea-cdf0-48f3-98ef-c3fc05cf7f84)
 
-<br>
-![Screenshot from 2023-11-26 00-41-46](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/1b032bc4-fdde-48d8-925c-c6b8aae0cfc8)
+![Screenshot from 2023-11-26 00-40-57](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/763c4469-bfe3-476d-8ceb-d6ba609560e9)
 
-<br>
-![Screenshot from 2023-11-26 00-42-05](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/3876874a-da51-48e2-b2bd-178ada1b39ad)
+
+![Screenshot from 2023-11-26 00-41-16](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/aed1ad8a-2584-40b4-8e65-8b4c47faa9ab)
+
+
+
+![Screenshot from 2023-11-26 00-41-31](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/14a4de22-d27e-4242-8d43-e87f910396b6)
+
+
+![Screenshot from 2023-11-26 00-41-46](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/707691fd-6183-4dcf-9345-9d5d51579b08)
+
+
+![Screenshot from 2023-11-26 00-42-05](https://github.com/ANKITSINGH47/Explicit-Model-Predictive-Control-MPC-using-Decision-trees-and-Random-forests-for-differential-gam/assets/47277960/b0f3fcce-2dd6-4c98-b5ea-dd3ab9b99e36)
+
+
+
 
 
